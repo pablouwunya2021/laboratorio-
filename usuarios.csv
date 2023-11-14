@@ -1,0 +1,5 @@
+nombre_de_usuario,contraseña_hash,tipo_de_plan
+usuario1,hash1,BASE
+usuario2,hash2,PREMIUM
+...
+
